@@ -206,6 +206,10 @@ a {
     height: fit-content;
   }
 }
+.prix .box img:first-child{
+  border-bottom: 3px solid var(--main-color);
+  padding-bottom: 15px;
+}
 /* End Prix Section */
 /* Start images Section */
 .images {
