@@ -293,6 +293,16 @@ a {
   margin: 30px 0;
   text-align: center;
 }
+.contact .contactinfo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+.contact .snapchat img {
+  width:50px;
+  cursor: pointer;
+}
 .contact .phone {
   display: flex;
   align-items: center;
